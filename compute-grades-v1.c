@@ -2,9 +2,9 @@
 
 float ComputeGrades( int *projectGrade, int *assignments, int *majorExams){
 
-    float totalProjectGrades = 150;
-    float totalAssignments = 1300;
-    float totalMajorExams = 110;
+    float totalProjectGrades = 100;
+    float totalAssignments = 250;
+    float totalMajorExams = 240;
 
     float a;
     a = *projectGrade;
@@ -23,9 +23,9 @@ float ComputeGrades( int *projectGrade, int *assignments, int *majorExams){
 }
 
 int main(){
-    int projectGrade = 123;
+    int projectGrade = 85;
     int assignments = 1231;
-    int majorExams = 100;
+    int majorExams = 215;
 
     float result = ComputeGrades(&projectGrade, &assignments, &majorExams);
 
