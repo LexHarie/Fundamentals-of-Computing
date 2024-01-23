@@ -1,1 +1,0 @@
-nodemon --exec "gcc -o practice-100202401230001 practice-100202401230001.c && ./practice-100202401230001" practice-100202401230001.c
