@@ -1,0 +1,8 @@
+---
+triple:          'x86_64-apple-darwin'
+binary-path:     '/Users/lexhariepisco/Programming-1---USC-TC/compute-grades-v1'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _ComputeGrades, symObjAddr: 0x0, symBinAddr: 0x100003E20, symSize: 0x110 }
+  - { offsetInCU: 0x41, offset: 0x41, size: 0x8, addend: 0x0, symName: _ComputeGrades, symObjAddr: 0x0, symBinAddr: 0x100003E20, symSize: 0x110 }
+  - { offsetInCU: 0xD9, offset: 0xD9, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x110, symBinAddr: 0x100003F30, symSize: 0x52 }
+...

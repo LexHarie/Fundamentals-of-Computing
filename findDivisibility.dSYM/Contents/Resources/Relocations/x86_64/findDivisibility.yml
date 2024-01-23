@@ -1,0 +1,8 @@
+---
+triple:          'x86_64-apple-darwin'
+binary-path:     '/Users/lexhariepisco/Programming-1---USC-TC/findDivisibility'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _findDivisibility, symObjAddr: 0x0, symBinAddr: 0x100003E50, symSize: 0x40 }
+  - { offsetInCU: 0x41, offset: 0x41, size: 0x8, addend: 0x0, symName: _findDivisibility, symObjAddr: 0x0, symBinAddr: 0x100003E50, symSize: 0x40 }
+  - { offsetInCU: 0x77, offset: 0x77, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x40, symBinAddr: 0x100003E90, symSize: 0xFE }
+...
