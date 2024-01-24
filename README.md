@@ -42,4 +42,4 @@ Feel free to fork this repository and submit pull requests. For major changes, p
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+Click the following link to read the [LICENSE](https://github.com/LexHarie/Programming---USC-TC/blob/main/LICENSE)
