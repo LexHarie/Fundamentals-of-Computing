@@ -6,6 +6,6 @@ void recursivePrinting(int a[], int b, int i)
     {
       printf("%d \n", a[i]);
     }
-    recursivePrinting(a, b, i + 1);
+    recursivePrinting(a, b, i++);
   }
 }
