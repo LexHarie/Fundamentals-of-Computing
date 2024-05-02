@@ -2,6 +2,7 @@
 !*.gitignore
 .vscode
 compiler.c
+compiler
 
 # Logs
 logs
